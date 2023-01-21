@@ -1,0 +1,14 @@
+com\GestionGasolinera\services\ICombustibleService.class
+com\GestionGasolinera\services\CombustibleServiceImpl.class
+com\GestionGasolinera\dtos\RepostajeVehiculoDTO.class
+com\GestionGasolinera\dtos\RepostajeGasolineraDTO.class
+com\GestionGasolinera\repositories\ICombustibleRepository.class
+com\GestionGasolinera\app\App.class
+com\GestionGasolinera\entities\RepostajeVehiculo.class
+com\GestionGasolinera\repositories\CombustibleRepositoryImpl.class
+com\GestionGasolinera\entities\RepostajeGasolinera.class
+com\GestionGasolinera\queries\ICombustibleQuery.class
+com\GestionGasolinera\dtos\CombustibleDTO.class
+com\GestionGasolinera\tools\Tools.class
+com\GestionGasolinera\entities\Combustible.class
+com\GestionGasolinera\queries\CombustibleQueryImpl.class
